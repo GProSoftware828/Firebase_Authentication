@@ -1,0 +1,67 @@
+.postForm {
+  margin-top: 8rem;
+  margin-left: 33%;
+  background: gold;
+  width: 33%;
+  height: 40%;
+  display: inline-block;
+}
+.firebaseBtn {
+  margin-top: 25px;
+  margin-right: 50px;
+  background: blue;
+  color: #fff;
+  float: right;
+}
+.resultsMod {
+  margin: auto;
+  background: red;
+  color: #fff;
+  width: 33%;
+  padding: 3rem;
+}
+/* fields: */
+.form-title {
+  font-size: x-large;
+  text-align: center;
+  color: #fff;
+  text-decoration: underline;
+  font-style: italic;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.form-input {
+  height: 2rem;
+  width: 33%;
+  border: 3px solid green;
+  border-radius: 0.5rem;
+  display: inline-block;
+  margin-left: 33%;
+  margin-bottom: 1.5rem;
+}
+.form-btn {
+  height: 1.5rem;
+  width: 33%;
+  border-radius: 0.25rem;
+  margin-left: 33%;
+  margin-bottom: 1.5rem;
+}
+.result-heading {
+  text-align: center;
+  font-style: italic;
+  font-size: medium;
+  margin-bottom: 2rem;
+}
+.results {
+  text-align: center;
+  margin-bottom: 2rem;
+  color: black;
+}
+.back-btn {
+  background: #fff;
+  margin-left: 33%;
+  width: 33%;
+  height: 1.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
